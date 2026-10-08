@@ -1,0 +1,17 @@
+# Java
+*.class
+out/
+target/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Local configuration
+.env
+db.properties
+
+# OS
+.DS_Store
+Thumbs.db
